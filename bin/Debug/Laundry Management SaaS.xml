@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Laundry Management SaaS
+</name>
+</assembly>
+<members>
+<member name="T:Laundry_Management_SaaS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.add_list_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.add_list_480px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.add_list_480px21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.broom_208px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.broom_208px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.down_right_round_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.group_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.group_480px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.group_480px21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.home_page_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.home_page_480px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.invisible_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.laundry__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.login_rounded_right_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.money_512px6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.Screenshot_110">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.Screenshot_110_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.Screenshot_112">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.Screenshot_113">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.Screenshot_114">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.Screenshot_115">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.settings_96px3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.settings_96px6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.squared_menu_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.squared_menu_filled_500px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.todo_list_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.todo_list_480px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.todo_list_480px4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.truck_208px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.user_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.user_480px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_SaaS.My.Resources.Resources.washing_machine_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
